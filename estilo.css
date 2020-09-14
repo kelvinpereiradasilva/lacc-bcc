@@ -1,0 +1,50 @@
+
+body{
+    background-color: rgb(234, 234, 241)
+
+}
+#avatar{
+
+    width:120px; 
+    height:120px; 
+    float:right;
+}    
+div{
+    text-align: center;
+}
+footer {
+    padding: 3px;
+    background-color: rgb(43, 180, 105);
+ }
+
+ table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td, th {
+    border: 1px solid #bebebe;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }
+
+
+
+  pagina 2 
+
+  body{
+    background-color: rgb(234, 234, 241)
+  }
+
+  #avatar{
+
+    width:120px; 
+    height:120px; 
+    float:right;
+}  
+
